@@ -14,5 +14,3 @@
    [MIT Training Q&amp;A及小贴士](https://mp.weixin.qq.com/s?__biz=MzkwNTMzOTE2MA==&mid=2247485751&idx=3&sn=36a5323b3c32984bb94c97b313aa0c23&chksm=c0f80140f78f8856abd37f667cbd06a3267eed4ed34c1d36f16f527d8613ea14d1dbdcad0b8f&scene=21#wechat_redirect)
 6. MIT课程学习笔记
    [MIT6.175和MIT6.375学习笔记](https://mp.weixin.qq.com/s/I5bPw_AUWTh2VgzAm4SHhg)
-
-test main
