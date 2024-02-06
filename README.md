@@ -15,4 +15,4 @@
 6. MIT课程学习笔记
    [MIT6.175和MIT6.375学习笔记](https://mp.weixin.qq.com/s/I5bPw_AUWTh2VgzAm4SHhg)
 
-* [ ] hsduifhiosehjafiojawseoig hjoawe hjnguawer
+test main
