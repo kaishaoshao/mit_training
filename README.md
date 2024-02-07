@@ -16,8 +16,8 @@
 
 ### MIT课程学习地址
 
-[1. B站 MIT 6.004 2019  缺少Lab10](https://www.bilibili.com/video/BV1KK411u7FX/?spm_id_from=333.1007.top_right_bar_window_history.content.click)
-[2.B站 MIT 6.004 2019  中英机翻](https://www.bilibili.com/video/BV197411s736/?spm_id_from=333.337.search-card.all.click&vd_source=2cb22062bbd1ad0823747ec35d88c863)
+1. [B站 MIT 6.004 2019  缺少Lab10](https://www.bilibili.com/video/BV1KK411u7FX/?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+2. [B站 MIT 6.004 2019  中英机翻](https://www.bilibili.com/video/BV197411s736/?spm_id_from=333.337.search-card.all.click&vd_source=2cb22062bbd1ad0823747ec35d88c863)
 
 * [ ] *MIT 6.175和MIT6.375暂时没有找到,Youtobe可能有*
 
@@ -31,10 +31,10 @@
 
 ### MIT 6.175Lab代码
 
-[代码1](https://github.com/dmendelsohn/6.175)
-[代码2](https://github.com/kazutoiris/MIT6.175)
-[代码3](https://github.com/GTwhy/MIT_6.175)
-[官网](http://csg.csail.mit.edu/6.175/)
+* [代码1](https://github.com/dmendelsohn/6.175)
+* [代码2](https://github.com/kazutoiris/MIT6.175)
+* [代码3](https://github.com/GTwhy/MIT_6.175)
+* [官网](http://csg.csail.mit.edu/6.175/)
 
 ### MIT 6.375Lab代码
 
@@ -43,12 +43,11 @@
 
 ### 环境配置
 
-[BSV语言的编译和仿真器BSC](https://github.com/B-Lang-org/bsc/releases)
-[RISC-V工具链](https://github.com/stnolting/riscv-gcc-prebuilt)
-[connectal软硬件协同开发环境](https://github.com/cambridgehackers/connectal)
-
-* [docker镜像1](https://hub.docker.com/r/pwang7/connectal)
-* [docker镜像2](https://hub.docker.com/r/kazutoiris/connectal)
+* [BSV语言的编译和仿真器BSC](https://github.com/B-Lang-org/bsc/releases)
+* [RISC-V工具链](https://github.com/stnolting/riscv-gcc-prebuilt)
+* [connectal软硬件协同开发环境](https://github.com/cambridgehackers/connectal)
+  * [docker镜像1](https://hub.docker.com/r/pwang7/connectal)
+  * [docker镜像2](https://hub.docker.com/r/kazutoiris/connectal)
 
 ### MIT课程学习笔记
 
@@ -56,6 +55,6 @@
 
 ### Bluespec SystemVerilog(BSV)中文教程
 
-[1.知乎](https://zhuanlan.zhihu.com/p/469917984)
-[2.GitHub](https://link.zhihu.com/?target=https%3A//github.com/WangXuan95/BSV_Tutorial_cn)
-[3.Gitee](https://gitee.com/wangxuan95/BSV_Tutorial_cn)
+* [1.知乎](https://zhuanlan.zhihu.com/p/469917984)
+* [2.GitHub](https://link.zhihu.com/?target=https%3A//github.com/WangXuan95/BSV_Tutorial_cn)
+* [3.Gitee](https://gitee.com/wangxuan95/BSV_Tutorial_cn)
