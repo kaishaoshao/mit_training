@@ -19,7 +19,7 @@
 1. [B站 MIT 6.004 2019  缺少Lab10](https://www.bilibili.com/video/BV1KK411u7FX/?spm_id_from=333.1007.top_right_bar_window_history.content.click)
 2. [B站 MIT 6.004 2019  中英机翻](https://www.bilibili.com/video/BV197411s736/?spm_id_from=333.337.search-card.all.click&vd_source=2cb22062bbd1ad0823747ec35d88c863)
 
-* [ ] *MIT 6.175和MIT6.375暂时没有找到,Youtobe可能有*
+* [X] *MIT 6.175和MIT6.375暂时没有找到,Youtobe可能有*
 
 ### MIT课程学习经验分享
 
@@ -58,3 +58,10 @@
 * [1.知乎](https://zhuanlan.zhihu.com/p/469917984)
 * [2.GitHub](https://link.zhihu.com/?target=https%3A//github.com/WangXuan95/BSV_Tutorial_cn)
 * [3.Gitee](https://gitee.com/wangxuan95/BSV_Tutorial_cn)
+
+
+### Makefile学习地址
+
+[makefile 学习1](https://github.com/yifengyou/learn-make)
+
+[makefile 学习2](https://github.com/gavinliu6/Makefile-Tutorial-zh-CN/tree/main#/docs/getting-started)
